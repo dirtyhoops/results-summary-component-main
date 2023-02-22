@@ -15,11 +15,11 @@ Users should be able to:
 
 ##### Desktop size
 
-<img src="./assets/screenshots/screenshot-desktop.png" width="70%">
+<img src="./assets/screenshots/screenshot-desktop.png" width="80%">
 
 ##### Mobile size
 
-<img src="./assets/screenshots/screenshot-mobile.png" width="60%">
+<img src="./assets/screenshots/screenshot-mobile.png" width="40%">
 
 ### Links
 
