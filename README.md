@@ -13,11 +13,11 @@ Users should be able to:
 
 ### Screenshot
 
-##### Desktop size
+##### Desktop View
 
 <img src="./assets/screenshots/screenshot-desktop.png" width="80%">
 
-##### Mobile size
+##### Mobile View
 
 <img src="./assets/screenshots/screenshot-mobile.png" width="40%">
 
