@@ -87,6 +87,11 @@ body {
   font-weight: var(--fw-regular);
   font-size: 0.925rem;
   background-color: var(--cl-neutral-white);
+
+  /* For this project only -- center the only main component */
+  display: grid;
+  place-content: center;
+  margin: 1rem;
 }
 
 @media (min-width: 600px) {
@@ -256,9 +261,6 @@ body {
     -moz-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
     -webkit-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
     box-shadow: 0 30px 60px #3d6cec26;
-
-    /* to make the result component a little centered horizontally */
-    margin: 15rem auto 0 auto;
   }
 
   .result__own {
