@@ -13,9 +13,13 @@ Users should be able to:
 
 ### Screenshot
 
-![(./assets/screenshots/screenshot-desktop.png), (./assets/screenshots/screenshot-mobile.png)]
+##### Desktop size
 
-<!-- ![] -->
+<img src="./assets/screenshots/screenshot-desktop.png" width="50%">
+
+##### Mobile size
+
+<img src="./assets/screenshots/screenshot-mobile.png" width="">
 
 ### Links
 
