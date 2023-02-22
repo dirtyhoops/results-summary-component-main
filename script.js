@@ -12,7 +12,7 @@ function createSummary(category) {
   const div = document.createElement('div');
   div.className = `flex-group result__summary__category result__summary__category--${category.color}`;
   div.innerHTML = `<div class="flex">
-                    <img src="${category.icon}" />
+                    <img src="${category.icon}" alt="icon for ${category.category}"/>
                     <p class="summary__category">${category.category}</p>
                   </div>
                   <p class="summary__score"> ${category.score} <span class="summary__score-outof">/ 100</span></p>`;
